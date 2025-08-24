@@ -119,7 +119,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/k2qM6vg0/MEF-AAP-027-BAP-2025-06-29-14-27-46.png',
+            image: 'https://i.ibb.co/7NgVrSgR/MEF-AAP-027-BAP-2025-08-24-19-23-30.png',
             description: '',
             location: {
                 center: [29.039, 41.060],
